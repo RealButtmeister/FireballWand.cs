@@ -4,7 +4,7 @@ using Rust;
 
 namespace Oxide.Plugins
 {
-    [Info("FireballWand", "YourName", "1.0.2")]
+    [Info("FireballWand", "661psycha", "1.0.2")]
     [Description("Torch that casts a zero-damage fireball with a cooldown")]
 
     public class FireballWand : RustPlugin
